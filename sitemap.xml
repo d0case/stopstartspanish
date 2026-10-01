@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://stopstartspanish.com/</loc>
+    <lastmod>2026-10-01</lastmod>
+    <image:image>
+      <image:loc>https://stopstartspanish.com/assets/roller-coaster.webp</image:loc>
+      <image:caption>Three readers enjoying Stop Start Spanish books on a roller coaster</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://stopstartspanish.com/assets/a1-a2-cover.webp</image:loc>
+      <image:caption>Beginner A1–A2 Spanish graded reader</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://stopstartspanish.com/assets/b1-b2-cover.webp</image:loc>
+      <image:caption>Intermediate B1–B2 Spanish graded reader</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://stopstartspanish.com/assets/c1-c2-cover.webp</image:loc>
+      <image:caption>Advanced C1–C2 Spanish graded reader</image:caption>
+    </image:image>
+  </url>
+</urlset>
